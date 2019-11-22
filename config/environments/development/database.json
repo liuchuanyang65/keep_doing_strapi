@@ -1,0 +1,17 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "strapi-hook-bookshelf",
+      "settings": {
+        "client": "mysql",
+        "database": "lcy",
+        "host": "111.230.187.249",
+        "port": "63106",
+        "username": "lcy",
+        "password": "lcy65"
+      },
+      "options": {}
+    }
+  }
+}

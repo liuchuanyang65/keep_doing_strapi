@@ -1,3 +1,3 @@
-# keep_doing_strapi
+# Strapi application
 
-A quick description of keep_doing_strapi.
+A quick description of your strapi application
